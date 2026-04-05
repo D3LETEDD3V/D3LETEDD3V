@@ -3,6 +3,10 @@
 
 - 🔨 Aktualnie pracuje na: [RIFT](https://riftmc.eu)
 
+- 🛠️ Tworze **nagrywki** oraz **discord boty** dla **mniejszych** lub **większych** twórców internetowych!
+
+- 🤖 Moje **discord boty** można oglądać na moim serwerze lub na serwerach **twórców** takich jak **Wolfifa** lub **TymonYolo**
+
 - 🌱 Aktualnie uczę się o **Cyberbezpieczeństwie**
 
 - 💼 Można zobaczyć moje portfolio na [https://d3leted.pl](https://d3leted.pl)
