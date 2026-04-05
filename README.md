@@ -19,7 +19,7 @@
 
 <h3 align="left">Możesz mnie zobaczyć lub skontaktować się ze mną na:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@d3leted_d3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@d3leted_d3v" height="30" width="40" /></a>
+<a href="https://youtube.com/@d3leted_d3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@D3LETED_D3V" height="30" width="40" /></a>
 <a href="https://discord.gg/fYtQtabKm9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fYtQtabKm9" height="30" width="40" /></a>
 </p>
 
