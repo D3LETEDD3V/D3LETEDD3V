@@ -5,9 +5,13 @@
 
 - 🛠️ Tworze **nagrywki** oraz **discord boty** dla **mniejszych** lub **większych** twórców internetowych!
 
+- 📋 Tworzyłem nagrywki dla wielu twórców takich jak **Rojan** czy **Foxed**!
+
 - 🤖 Moje **discord boty** można oglądać na moim serwerze lub na serwerach **twórców** takich jak **Wolfifa** lub **TymonYolo**
 
 - 🌱 Aktualnie uczę się o **Cyberbezpieczeństwie**
+
+- 📢 Jestem również administratorem na nagrywkach **RIFT** i innych youtuberów!
 
 - 💼 Można zobaczyć moje portfolio na [https://d3leted.pl](https://d3leted.pl)
 
